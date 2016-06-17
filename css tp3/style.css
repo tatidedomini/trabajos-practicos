@@ -1,0 +1,108 @@
+body h2{
+	font-family: 'ralewey', sans-serif;
+	font-size: 30px;
+	font-weight:700;
+}
+
+body h3{
+	font-family: 'open sans', sans-serif;
+	text-transform: uppercase;
+	font-size: 15px;
+}
+
+body h4{
+	font-family: 'ralewey', sans-serif;
+}
+
+body p{
+	font-family: 'open sans', sans-serif;
+	font-size: 10px;
+	font-weight:500;
+}
+
+header {	
+	font-family: 'open sans', sans-serif;
+	background-color: white;
+	}
+
+header a{
+	font-weight: 400;
+	font-size: 10px;
+	text-transform:uppercase;
+	text-decoration: none;
+	color:black;
+}
+
+.section2{
+	background-image: url("../images/server.jpg");
+	height: 500px;
+	color:white;
+
+}
+
+input{
+	font-family: 'open sans', sans-serif;
+}
+
+.search{
+font-size: 10px;
+}
+
+.button{
+	background-color: #00ADF2;
+	color:white;
+	text-transform: uppercase;
+	font-size: 10px;
+}
+
+.section3{
+	color:black;
+	background-color: white;
+}
+
+.section4{
+	color:black;
+	background-color: white;
+}
+
+.section5{
+	background-image: url ("../images/section5.jpg");
+	height: 200px;
+}
+
+.pricing{
+	font-size: 20px;		
+	font-weight: 600;
+}
+
+.section6{
+	background-color: #142E3F ;
+	height: 200px;
+}
+
+.section6 p{
+	color:white;
+	font-size:25px;
+}
+
+span{
+	color: #00ADF2;
+	font-weight: 700;
+}
+
+.footer{
+	background-color: #091722;
+	font-family: 'open sans', sans-serif;
+	color:white;
+}
+
+.footer p{
+	font-size: 5px;
+}
+
+.footer a{
+	text-decoration: none;
+	color:white;
+	font-size: 10px;
+	font-weight: 300;
+}
