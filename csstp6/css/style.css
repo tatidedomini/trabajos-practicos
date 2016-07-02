@@ -1,0 +1,489 @@
+.contenedor{
+	max-width: 900px;
+	margin:0 auto;
+}
+
+body h2{
+	font-family: 'ralewey', sans-serif;
+	font-size: 30px;
+	font-weight:700;
+}
+
+body h3{
+	font-family: 'open sans', sans-serif;
+	text-transform: uppercase;
+	font-size: 15px;
+}
+
+body h4{
+	font-family: 'ralewey', sans-serif;
+}
+
+body p{
+	font-family: 'open sans', sans-serif;
+	font-size: 10px;
+	font-weight:500;
+}
+
+header {	
+	font-family: 'open sans', sans-serif;
+	background-color: white;
+	position:relative;
+	height:70px;
+	}
+
+header a{
+	font-weight: 400;
+	font-size: 10px;
+	text-transform:uppercase;
+	text-decoration: none;
+	color:black;
+}
+
+header .logo{
+	position:absolute;
+	left:20px;
+	top:20px;
+}
+
+header ul{
+	position:absolute;
+	right:20px;
+	top:26px;
+}
+
+header ul li{
+	display: inline;
+	margin-left: 10px;
+}
+
+.section2{
+	background-image: url("../images/banner1.jpg");
+	height: 388px;
+	width: 100%;
+	color:white;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+.section2 div{
+	padding-top: 130px;
+    padding-left: 10%;
+}
+
+.section2 h2{
+	margin-bottom: 20px;
+}
+
+input{
+	font-family: 'open sans', sans-serif;
+}
+
+.form{
+	margin: 0 auto;
+	margin-top: -30px;
+}
+
+
+.input1 {
+	font-size: 10px;
+	width:80%;
+	float: left;
+}
+
+.input1 .search{
+	width: 100%;
+	padding: 20px;
+}
+
+.input2 {
+	width: 20%;
+	float: right;
+}
+
+.input2 .button{
+	width: 100%;
+	background-color: #00ADF2;
+	color:white;
+	text-transform: uppercase;
+	font-size: 10px;
+	padding: 20px;
+	margin-left: 0;
+}
+
+.iconos li article img:hover {
+	transition:1.3s ease-in-out;
+	transform:scale(1.25);
+}
+
+.section3{
+	clear: both;
+	overflow: hidden;
+}
+
+.section3 li{
+	display: inline-block;
+	margin-left: 87px;
+	margin-top: 50px;
+	text-align: center;
+}
+
+.section3 img{
+	margin-bottom: 10px;
+}
+
+.section3 p{
+	margin-top: 10px;
+	text-align: center;
+}
+
+.section4{
+	color:black;
+	background-color: white;
+	clear: both;
+	height: 620px;
+}
+
+.section4 h2{
+	text-align: center;
+	margin-top: 80px;
+	margin-bottom: 20px;
+}
+
+.section4 h4{
+	text-align: center;
+}
+
+.section4 img{
+	padding: 40px;
+}
+
+.box{
+	margin:0 auto;
+	clear: both;
+	overflow: hidden;
+}
+
+.columnleft{
+	float: left;
+	margin-top:121px;
+	text-align: right;
+	margin-left: 30px;
+}
+
+.cel{
+	float:left;
+	margin-top: 10px;
+	margin-left: 62px;
+}
+
+.columnright{
+	float: left;
+    margin-top: 121px;
+    text-align: left;
+}
+
+.box ul li {
+	margin-bottom: 20px;
+}
+
+.box ul li article {
+	position: relative;
+}
+
+.columnleft ul li article {
+	padding: 25px 25px;
+}
+
+.columnright ul li article {
+	padding: 23px 56px;
+}
+
+.columnleft ul li article img{
+	position: absolute;
+	right: -100px;
+	top:-17px;
+}
+
+.columnright ul li article img{
+	position: absolute;
+    left: -53px;
+    top: -14px;
+}
+
+.section5{
+	background-image: url("../images/pricing.jpg");
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+.section5 div{
+	padding:104px;
+}
+.section5 h2{
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+.section5 h4{
+	text-align: center;
+}
+
+.box2{
+	margin-top: -53px;
+	height: 280px;
+}
+
+.box2 ul{
+	text-align: center;
+}
+
+.box2 .item{
+	display: inline-block;
+	border: 1px solid gray;
+	padding:20px 10px;
+	background-color: white;
+	margin-left: 5px;
+}
+
+.item h3{
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.item ul{
+	margin-bottom: 20px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.pricing{
+	font-size: 20px;		
+	font-weight: 600;
+}
+
+.button{
+	background-color: #00ADF2;
+	color:white;
+	text-transform: uppercase;
+	font-size: 10px;
+	padding: 10px;
+	width: 100px;
+	text-decoration: none;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	text-align: center;
+}
+
+.section6{
+	background-color: #142E3F ;
+	text-align: center;
+	padding: 40px 0;
+	margin-top: 30px;
+}
+
+.section6 p{
+	color:white;
+	font-size:25px;
+}
+
+span{
+	color: #00ADF2;
+	font-weight: 700;
+}
+
+.footer{
+	background-color: #091722;
+	font-family: 'open sans', sans-serif;
+	color:white;
+}
+
+.footer div{
+	width: ;
+	margin: 0 auto;
+	padding:20px 0;
+}
+
+.footer p{
+	font-size: 5px;
+	float: left;
+}
+
+.footer nav {
+	float: right;
+}
+
+.footer nav ul{
+	float: left;
+	margin-top: -15px;
+}
+
+.footer li{
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.footer a{
+	text-decoration: none;
+	color:white;
+	font-size: 10px;
+	font-weight: 300;
+	margin-top: -10px;
+}
+
+
+.contact1{
+	background-image: url("../images/contacto.jpg");
+	background-size: 100%;
+	width: 100%;
+	height: 316px;
+	color:white;
+	text-align: center;
+}
+
+.contact1 div {
+	padding:122px;
+}
+
+.contact2{
+	text-align: center;
+	margin-top: 20px;
+}
+
+.contact2 h2{
+	margin-bottom: 15px;
+}
+
+.contact2 p{
+	margin-bottom: 30px;
+}
+
+.contact3{
+	display: block;
+	width: 49%;
+	float: left;
+}
+
+.contact3 ul li{
+	margin-bottom: 10px;
+}
+
+.contact3 ul li input, .contact4 textarea {
+	height: 20px;
+
+}
+
+
+.contact3 ul li input, .contact4 textarea {
+	width:100%;
+	font-family: 'open sans', sans-serif;
+	font-size: 10px;
+
+}
+
+.contact4{
+	width: 49%;
+	float: right;
+}
+
+.contact4 textarea {
+	height: 93px;
+
+}
+
+.contact5{
+	text-align: center;
+    overflow: hidden;
+    clear: both;
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+
+@media screen and (max-width: 768px){
+	.contenedor {
+		padding-left: 10px;	
+		padding-right: 10px;
+	}
+
+	header ul {
+    left: 200px;
+}
+
+	.section2 div {
+	    padding-top: 110px;
+	    padding-left: 10%;
+}
+
+	.section3 li {
+	    margin-left: 160px;
+
+}
+
+	.columnleft{
+		width: 20%;
+	}
+
+	.columnleft ul li article {
+    	padding: 18px 11px;
+}
+	.columnleft ul li article h3, .columnright ul li article h3{
+		font-size: 10px;
+}
+
+	.columnleft ul li article img {
+	    width: 28%;
+}
+
+	.cel{
+		width: 45%;
+		margin-right: -60px;
+}
+
+	.section4 img {
+	    width: 55%;
+}
+
+	.columnright{
+			width: 20%;
+		}
+
+	.columnright ul li article{
+		padding-left: 50px;
+	    padding-top: 34px;
+	    padding-right: 0;
+	    padding-bottom: 0;
+}
+
+	.columnright ul li article img {
+	    width: 28%;
+	}
+
+	.box2 .item {
+    margin-bottom: 20px;
+    width: 30%;
+}
+	.section6 {
+	    margin-top: 300px;
+}
+
+	.footer p {
+	    float: none;
+	    text-align: center;
+	}
+
+	.footer nav {
+    float: none;
+}
+
+.footer nav ul {
+    float: none;
+    margin-top: 0;
+    text-align: center;
+}
+
+}
